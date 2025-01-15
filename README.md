@@ -31,11 +31,14 @@ O vídeo resultado do projeto econtra-se nesse repositório como o arquivo "Caix
 Comente sobre o desafio de criar algo 'natty' com IA.
 - A parte mais engraçada foi pesquisar o artigo "Caixa Econômica Federal" na Desciclopédia e utilizar o ChatGPT para criar uma pequena cena.
 
-Prompt
-´´´https://desciclo.pedia.ws/wiki/Caixa_Econ%C3%B4mica_Federal
+Prompt:
+```markdown
+> https://desciclo.pedia.ws/wiki/Caixa_Econ%C3%B4mica_Federal
+> Utilizando o artigo da Caixa Econômica Federal, da desciclopedia, utilizando o humor e a caricatura, faca um dialogo entre o atendente sobrecarregado e os clientes na fila esperando.
+```
+Resultado:
 
-Utilizando o artigo da Caixa Econômica Federal, da desciclopedia, utilizando o humor e a caricatura, faca um dialogo entre o atendente sobrecarregado e os clientes na fila esperando.´´´
-
+```markdown
 **Cenário**: Uma agência da Caixa Econômica Federal, lotada de clientes na fila. O relógio na parede marca 10h da manhã, mas a energia do ambiente faz parecer que já são 18h de uma sexta-feira chuvosa.
 
 ---
@@ -83,3 +86,4 @@ Utilizando o artigo da Caixa Econômica Federal, da desciclopedia, utilizando o 
 ---
 
 *(A cena continua com clientes cada vez mais absurdos, e o atendente, agora quase derretendo, sonha com o horário de almoço que nunca chega.)*  
+```
